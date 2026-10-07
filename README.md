@@ -4,9 +4,8 @@
 
 **Data Science & AI Student · Aspiring AI Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](PUT-YOUR-LINKEDIN-URL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmedshanaa)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedshanaa)
-[![GitHub followers](https://img.shields.io/github/followers/AhmedShanaa0?style=social)](https://github.com/AhmedShanaa0?tab=followers)
 
 </div>
 
@@ -45,4 +44,4 @@ Applied machine learning, and building the next from-scratch project.
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/ahmedshanaa) · [Kaggle]([https://www.kaggle.com/ahmedshanaa)
+[LinkedIn](www.linkedin.com/in/ahmedshanaa) · [Kaggle](https://www.kaggle.com/ahmedshanaa)
