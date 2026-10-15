@@ -27,7 +27,7 @@ Also: Seaborn, Exploratory Data Analysis (EDA)
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Logistic Regression from Scratch** | L2-regularized logistic regression in pure NumPy with stratified cross-validation and leak-free threshold selection. Matches scikit-learn (same test accuracy). | Python, NumPy, Matplotlib | [Code](https://github.com/AhmedShanaa0/logistic-regression-from-scratch) |
+| **Logistic Regression from Scratch** | L2-regularized logistic regression in pure NumPy with stratified cross-validation and leak-free threshold selection. Matches scikit-learn (same test accuracy). | Python, NumPy, Matplotlib | [Code](https://github.com/AhmedShanaa0/logistic-regression-from-scratch) | [Notebook](https://www.kaggle.com/code/ahmedshanaa/logistic-regression-from-scratch-numpy-breast)
 | **Linear Regression from Scratch** | Multivariate linear regression with gradient descent in pure NumPy. Matches the Normal Equation (identical RMSE and R² on a held-out test set). | Python, NumPy, Pandas, Matplotlib | [Code](https://github.com/AhmedShanaa0/linear-regression-from-scratch) · [Notebook](https://www.kaggle.com/code/ahmedshanaa/notebookc0cdc703ef) |
 | **NovaRetail EDA** | Exploratory analysis of 500K+ UK online retail transactions: cleaning, time-series, geographic analysis, customer segmentation (Pareto 80/20). | Python, Pandas, NumPy, Matplotlib, Seaborn | [Code](https://github.com/AhmedShanaa0/novaretail-eda-analysis) |
 
